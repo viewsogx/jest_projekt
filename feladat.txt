@@ -1,0 +1,6 @@
+endpointok tesztelése. mockolás
+
+1. letezik e a fuggveny
+2. meghivtuk-e a függvényt
+3. megfelelően hívtuk-e meg a függvényt
+4. megfelelő státuszkódot kapunk-e
